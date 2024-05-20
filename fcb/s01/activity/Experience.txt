@@ -1,0 +1,2 @@
+I learned about what Git and Github is and learned about simple Git commands.
+I created my first repository and added my first commit, It was an exciting experience.
