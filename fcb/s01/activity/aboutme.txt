@@ -1,1 +1,3 @@
 ARPANA KUMAL
+
+I joined this session to learn about Git and Github. After this session I want to be able to use Git and Github to track changes in my project in future.
